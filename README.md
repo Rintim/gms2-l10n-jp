@@ -1,6 +1,6 @@
 # (unofficial) Japanese l10n of GameMaker Studio 2 IDE
 
-GameMaker Studio 2 本体の翻訳ファイルです。作業中。  
+GameMaker Studio 2 本体の日本語化ファイルです。作業中。  
 GMS2 インストール場所の `Languages` フォルダーへ `japanese.csv` をコピーしてください。
 
 なお、デフォルトの状態ではフォントが大きすぎて正しく表示されない箇所が多いです。
